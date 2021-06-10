@@ -13,7 +13,7 @@ Turn on the Max patch first, then the TouchDesigner file. Put the TD window in f
 https://www.youtube.com/watch?v=suQyK2O_jZQ
 
 ## Max Patch
-![](assets/fork.gif)
+![](assets/SuperGLITCHBOY Max Patch.jpg)
 
 
 ## TD file
