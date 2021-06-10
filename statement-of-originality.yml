@@ -1,31 +1,12 @@
-# adapted from https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
 
-# put *your* name here
-name:
+name: Dogioiu Dragos Ion
 
 declaration: >-
   I declare that everything I have submitted in this assignment is entirely my
-  own work, with the following exceptions:
+  own work, with the following exceptions:    
 
 
-# add as many "name+comment" entries as necessary
-# (or remove it altogether if you haven't collaborated with anyone)
-collaboration:
-  - name:
-    comment: >-
-      
-
-# add as many "url+licence+comment" entries as necessary
-# (or remove it altogether if you haven't used any external code)
 code:
-  - comment:
-    url:
-    licence:
-
-
-# add as many "url+licence+comment" entries as necessary
-# (or remove it altogether if you haven't used any external assets)
-assets:
-  - comment:
-    url:
-    licence:
+  - comment: I watched some tutorials about making synths in Max, but I didn't take any code directly.
+    url: https://www.youtube.com/watch?v=9P_Q5igfGFY
+    url: https://www.youtube.com/watch?v=ax4n8fGoWIo
